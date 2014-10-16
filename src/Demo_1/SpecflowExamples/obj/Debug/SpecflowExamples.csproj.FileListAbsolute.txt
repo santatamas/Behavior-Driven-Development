@@ -1,0 +1,11 @@
+C:\Users\Thomas\Documents\GitHub\bdd\src\Demo_1\SpecflowExamples\bin\Debug\SpecflowExamples.dll.config
+C:\Users\Thomas\Documents\GitHub\bdd\src\Demo_1\SpecflowExamples\bin\Debug\SpecflowExamples.dll
+C:\Users\Thomas\Documents\GitHub\bdd\src\Demo_1\SpecflowExamples\bin\Debug\SpecflowExamples.pdb
+C:\Users\Thomas\Documents\GitHub\bdd\src\Demo_1\SpecflowExamples\bin\Debug\nunit.framework.dll
+C:\Users\Thomas\Documents\GitHub\bdd\src\Demo_1\SpecflowExamples\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Thomas\Documents\GitHub\bdd\src\Demo_1\SpecflowExamples\bin\Debug\nunit.framework.xml
+C:\Users\Thomas\Documents\GitHub\bdd\src\Demo_1\SpecflowExamples\obj\Debug\SpecflowExamples.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\GitHub\bdd\src\Demo_1\SpecflowExamples\obj\Debug\SpecflowExamples.dll
+C:\Users\Thomas\Documents\GitHub\bdd\src\Demo_1\SpecflowExamples\obj\Debug\SpecflowExamples.pdb
+C:\Users\Thomas\Documents\GitHub\bdd\src\Demo_1\SpecflowExamples\bin\Debug\SimpleCalculator.dll
+C:\Users\Thomas\Documents\GitHub\bdd\src\Demo_1\SpecflowExamples\bin\Debug\SimpleCalculator.pdb
