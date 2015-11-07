@@ -1,4 +1,4 @@
-bdd
+Behavior Driven Development
 ===
 
-course materials for BDD
+Course materials (presentation and practical examples)
